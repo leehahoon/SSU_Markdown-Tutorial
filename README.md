@@ -599,19 +599,19 @@ $ git reset --hard b6c177305d98     //이전 커밋으로 되돌아감
 ## 8. 명령어 목록 표
 | 명령어 | 설명 | 사용여부 |
 | :--- | :--- | :--: |
-|add|[4-2. git add](#4-2.-git-add)| O |
-|branch|[6-1. git branch](#6-1.-git-branch)| O |
-|checkout|[6-2. git checkout](#6-2.-git-checkout)| O |
-|clone|[5-3. git clone](#5-3.-git-clone)| O |
-|commit|[4-3. git commit](#4-3.-git-commit)| O |
-|config|[2-1. git config](#2-1.-git-config)| O |
-|init|[3-1. git init](#3-1.-git-init)| O |
-|log|[4-4. git log](#4-4.-git-log)| O |
-|merge|[6-3. git merge](#6-3.-git-merge)| O |
-|pull|[5-4. git pull](#5-4.-git-pull)| O |
-|push|[5-2. git push](#5-2.-git-push)| O |
-|rebase|[6-4. git rebase](#6-4.-git-rebase)| O |
-|remote|[5-1. git remote](#5-1.-git-remote)| O |
-|reset --hard|[7-2. git reset](#7-2.-git-reset)| O |
-|status|[4-1. git status](#4-1.-git-status)| O |
-|tag|[7-1. git tag](#7-1.-git-tag)| O |
+|add|[4-2. git add](#4-2-git-add)| O |
+|branch|[6-1. git branch](#6-1-git-branch)| O |
+|checkout|[6-2. git checkout](#6-2-git-checkout)| O |
+|clone|[5-3. git clone](#5-3-git-clone)| O |
+|commit|[4-3. git commit](#4-3-git-commit)| O |
+|config|[2-1. git config](#2-1-git-config)| O |
+|init|[3-1. git init](#3-1-git-init)| O |
+|log|[4-4. git log](#4-4-git-log)| O |
+|merge|[6-3. git merge](#6-3-git-merge)| O |
+|pull|[5-4. git pull](#5-4-git-pull)| O |
+|push|[5-2. git push](#5-2-git-push)| O |
+|rebase|[6-4. git rebase](#6-4-git-rebase)| O |
+|remote|[5-1. git remote](#5-1-git-remote)| O |
+|reset --hard|[7-2. git reset](#7-2-git-reset)| O |
+|status|[4-1. git status](#4-1-git-status)| O |
+|tag|[7-1. git tag](#7-1-git-tag)| O |
