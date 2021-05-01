@@ -567,3 +567,31 @@ HTML 태그도 <em>이렇게</em> 적용할 수 있습니다..
 <br>
 
 ***
+
+## 3. GFM(Github Flavered Markdown) 실습
+
+## GFM이란?
+GFM은 Github에서 기존 마크다운에 여러 기능을 추가하여 커스터마이징한 버전입니다. 깃허브 내에서 README 파일 같은 `.md`, `.markdown` 확장자를 가진 파일과 comments를 추가할 때도 사용 가능해서 많은 개발자들이 사용합니다.
+<br><br>
+
+## GFM 환경 설정 및 실습
+### 1. Github 로그인 / 회원가입
+[github.com](https://github.com)에 접속하여 회원가입 및 로그인을 합니다.
+
+![깃허브 로그인](images\GFM\github_signin.png)
+<br>
+
+### 2. Repository 생성
+우측의 '+'을 누르고 "New repository"를 이용하여 새로운 Repository를 생성합니다. 해당 버튼을 누르면 아래의 이미지처럼 화면이 나옵니다. 필자는 GFM 실습을 위해, repository의 이름은 "SSU_GFM_Train", 접근범위는 "Public", 그리고 GFM을 이용할 README 파일을 추가하는 옵션을 선택했습니다.
+
+![레포 생성](images\GFM\create_repo.png)
+<br>
+
+### 3. README 파일 편집
+Repository를 생성하면 아래 이미지처럼 README 마크다운 파일을 확인할 수 있습니다. 화면의 연필모양을 클릭하여 별도의 git 설치없이 온라인 편집기에서 README 파일 수정이 가능합니다.
+
+![README.md 수정](images\GFM\check_readme.png)
+<br>
+
+## GFM 확장 문법
+### https://github.com/leehahoon/SSU_GFM_Training
