@@ -328,7 +328,7 @@
 * 첫 번째 항목입니다.
 * 두 번재 항목입니다.
 
-    ![SSU Image](images\ssu_image.jpg)
+    ![SSU Image](images/ssu_image.jpg)
 
 * 세 번째 항목입니다.
 ```
@@ -337,7 +337,7 @@
 * 첫 번째 항목입니다.
 * 두 번재 항목입니다.
 
-    ![SSU Image](images\ssu_image.jpg)
+    ![SSU Image](images/ssu_image.jpg)
 
 * 세 번째 항목입니다.
 
@@ -497,22 +497,22 @@ URL 또는 이메일 주소를 링크로 빠르게 전환하려면 꺾쇠 괄호
 
 **예제)**
 ```
-![이미지 실습]](images\test_image.jpg)
+![이미지 실습]](images/test_image.jpg)
 ```
 
 **출력)**
-![이미지 실습](images\test_image.jpg)
+![이미지 실습](images/test_image.jpg)
 
 ## 이미지 링크
 이미지에 링크를 추가하려면, 이미지의 마크다운을 괄호로 묶은 다음, 링크를 괄호로 묶어 추가합니다.
 
 **예제)**
 ```
-[![이미지 링크 실습](images\ssu_image.jpg "숭실대학교 홈페이지")](https://ssu.ac.kr)
+[![이미지 링크 실습](images/ssu_image.jpg "숭실대학교 홈페이지")](https://ssu.ac.kr)
 ```
 
 **출력)**
-[![이미지 링크 실습](images\ssu_image.jpg "숭실대학교 홈페이지")](https://ssu.ac.kr)
+[![이미지 링크 실습](images/ssu_image.jpg "숭실대학교 홈페이지")](https://ssu.ac.kr)
 
 <br>
 
@@ -578,19 +578,19 @@ GFM은 Github에서 기존 마크다운에 여러 기능을 추가하여 커스�
 ### 1. Github 로그인 / 회원가입
 [github.com](https://github.com)에 접속하여 회원가입 및 로그인을 합니다.
 
-![깃허브 로그인](images\GFM\github_signin.png)
+![깃허브 로그인](images/GFM\github_signin.png)
 <br>
 
 ### 2. Repository 생성
 우측의 '+'을 누르고 "New repository"를 이용하여 새로운 Repository를 생성합니다. 해당 버튼을 누르면 아래의 이미지처럼 화면이 나옵니다. 필자는 GFM 실습을 위해, repository의 이름은 "SSU_GFM_Train", 접근범위는 "Public", 그리고 GFM을 이용할 README 파일을 추가하는 옵션을 선택했습니다.
 
-![레포 생성](images\GFM\create_repo.png)
+![레포 생성](images/GFM/create_repo.png)
 <br>
 
 ### 3. README 파일 편집
 Repository를 생성하면 아래 이미지처럼 README 마크다운 파일을 확인할 수 있습니다. 화면의 연필모양을 클릭하여 별도의 git 설치없이 온라인 편집기에서 README 파일 수정이 가능합니다.
 
-![README.md 수정](images\GFM\check_readme.png)
+![README.md 수정](images/GFM/check_readme.png)
 <br>
 
 ## GFM 확장 문법
